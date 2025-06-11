@@ -22,7 +22,7 @@
 | 프레임워크       | Spring, Django, Laravel, JSP, Vue    |
 | 데이터베이스      | MySQL, PostgreSQL, Oracle            |
 | 클라우드/DevOps | AWS, Azure, Docker, Git, Linux       |
-| 기타          | REST API, SSO, Kafka, PLC 연동, AGV 구축 |
+| 기타          | REST API, SSO, RabbitMQ연동, PLC 연동, AGV 구축 |
 
 ---
 
